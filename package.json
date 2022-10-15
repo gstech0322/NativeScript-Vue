@@ -2,7 +2,7 @@
   "name": "5-state-tracker",
   "version": "2.0.0",
   "description": "An application used to track the users five states.",
-  "author": "Mohammed Che <mocherbatji@gmail.com>",
+  "author": "",
   "license": "MIT",
   "nativescript": {
     "id": {
